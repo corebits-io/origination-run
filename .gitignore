@@ -1,0 +1,44 @@
+# Never commit your run workspace. It holds target company names, owner names,
+# contact details, drafted letters, and the reasoning behind a live acquisition
+# thesis. Owner names and contact details are personal data in most
+# jurisdictions. Keep the workspace outside this repo, or ignored inside it.
+workspace/
+my-run/
+runs/
+run/
+*.local.md
+
+# Your own filled-in working files, if you keep them in here.
+# Anchored to the repo root so the templates/ copies stay tracked.
+/MANDATE.md
+/mandate.md
+/targets.csv
+/outreach.csv
+/pipeline.csv
+/suppression.csv
+/source-ledger.csv
+/segment-map-*.md
+/rubric-*.md
+/run-*.md
+/state.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Data exports
+*.csv
+!templates/*.csv
+!samples/*.csv
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log

@@ -1,0 +1,10 @@
+message_id,company,owner_name,channel,sender,touch,send_after,subject,body,personalization_source,personalization_quote,word_count,checks_passed,status,approved_by,approved_date,sent_date,notes
+EXAMPLE-001,EXAMPLE ROW - DELETE ME,A. Example,email,"J. Buyer",1,2026-10-20,Example Mechanical Services,"Mr Example, my name is J. Buyer. I run Harbour Ridge, and we buy and hold commercial mechanical service businesses in the Midwest. We do not broker and we are not a fund with a clock on it.
+
+You said in a trade piece this year that service contracts are now half the business and that there is no next generation in the trade. That is the situation I would want to talk about, not the numbers.
+
+Would you be open to a short call in the next few weeks, at a time that suits you? If the timing is wrong, no reply needed and I will not keep writing.
+
+J. Buyer
+Harbour Ridge
+[postal address]",https://example-tradepress.test/example-mechanical-40-years,"""service contracts are now half the business"" / ""no next generation in the trade here""",104,"length 104 of 120; no banned phrases; no em dashes; no valuation implied; no fabricated warm path; four-part structure; one ask; release valve present; read-aloud pass",draft,,,,"Fictional. Touch 1 of 3. Shows the four-part structure with the personalization quoted from the row's own signal field. Delete before use."

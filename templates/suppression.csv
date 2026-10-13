@@ -1,0 +1,2 @@
+company,domain,owner_name,reason,channel_scope,permanent,date_added,notes
+EXAMPLE ROW - DELETE ME,example-two.com,B. Example,opt-out,all,yes,2026-09-14,"Fictional. Replied ""please take me off your list"". Permanent, every channel, no revisit date, no exceptions. The row stays here so the same company cannot re-enter the run next quarter. Delete before use."
